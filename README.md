@@ -1,4 +1,4 @@
-```markdown
+
 # House Price Prediction with Linear Regression
 
 A beginner machine learning project that walks through predicting house prices
@@ -138,4 +138,4 @@ in this dataset. No algorithm change will recover information that was never col
 - Dataset: Yasser H, Kaggle Housing Prices Dataset
 - Coefficient visualization approach: [DataCamp sklearn linear regression tutorial](https://www.datacamp.com/tutorial/sklearn-linear-regression)
 - Encoding strategies: [GeeksforGeeks ML Label Encoding](https://www.geeksforgeeks.org/machine-learning/ml-label-encoding-of-datasets-in-python/)
-```
+
